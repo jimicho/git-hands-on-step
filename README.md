@@ -1,2 +1,4 @@
-# git-hands-on-step
+
+# mainブランチで変更
+>>>>>>> main
 Gitのハンズオン用のサンプルレポジトリ（学習用）
