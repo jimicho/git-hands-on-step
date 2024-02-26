@@ -1,2 +1,2 @@
-# git-hands-on-step
+# developブランチで変更
 Gitのハンズオン用のサンプルレポジトリ（学習用）
